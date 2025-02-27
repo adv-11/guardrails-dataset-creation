@@ -1,0 +1,128 @@
+data,is_pii
+"""jane.smith@email.com"", ""1234 Elm Street, Springfield"", ""Galaxy Edge Technologies"", ""847-123-4567""",TRUE
+"Celestial Innovations, ""info@celestialinnovations.com"", 647-123-4567, 45 Twinkle Lane, Star City, 98765, Quantum Energy Solutions",TRUE
+"""42 Willow Lane, Springfield"", ""michael.smith@email.com"", ""Quantum Leap Technologies"", ""123-456-7890""",TRUE
+"""647-555-0198, Sunnyvale Park Drive, Galaxy Corp, Project Phoenix, 283B-ix92""",TRUE
+"""michael.smith@example.com"", ""Golden Oak Tree"", ""9876-1234-5678-9101"", ""456 Elm Street, Springfield"", ""Green Energy Solutions""",TRUE
+"""Example Company Ltd, 123 Elm Street, Springfield, 555-0123""",TRUE
+"""Mountain Peak Coffee, 786-45-2109, 123 Elm Street, Springfield""",TRUE
+"Jane.Smith@samplemail.com, Acme Innovations, 3427 Maple Ave, 555-012-3456, Quantum Computing Research, 6621-9328-4507-7576",TRUE
+"Acme Innovations, 221B Baker Street, London, john.smith@example.com, Quantum Leap Technologies, 650-234-9876",TRUE
+"""alice.smith@gmail.com, 456-78-9123, Sapphire Innovations, 1029 Evergreen Terrace, Springfield""",TRUE
+"Sunnyvale Innovations  
+contact@sunnyvale.com  
+12345 Oakwood Drive  
+987-65-4320",TRUE
+"""454 Maple Avenue, Springfield, IL 62704""",TRUE
+"""The sky is blue""",FALSE
+"""example.user@gmail.com, Acme Innovations, 555-123-4567, Redwood Drive, California""",TRUE
+"""Speedster Solutions, San Jose, CA""",FALSE
+"Sunnyvale Electronics, 123 Elm Street, Springfield, email: jane.smith@example.com, Product ID: 456-789, Transaction ID: 9876543210",TRUE
+"""alex.smith@example.com""  
+""Sunset Valley Park""  
+""555-0123""",TRUE
+"""contact@randomdomain.com"", ""765-43-2109"", ""4321 Elm Street, Springfield"", ""GigaSpeed Router"", ""Supernova Energy Drink""",TRUE
+"Sunnyvale Park, 45 Elm Street, Sunnyvale, CA 94086, ""contact@sunnyvaleparks.com""",TRUE
+"""alice.smith@gmail.com, XYZ Innovations Corp, 4532 Willow Creek Drive, 987-65-4320""",TRUE
+"Sunset Valley, 458 Sunrise Avenue, Apt 5B, Springfield, john.smith@example.com, Quantum Leap Consulting, 9876-5432-1098-7654",TRUE
+"""Green Valley Park, Innovation Solutions, azure_widget_2023""",FALSE
+"Blue Ocean Technologies, 456-789-0123, ""info@blueoceantech.com"", Quantum Innovations, 123 Main St, Springfield, IL 62704",TRUE
+"""jane.smith@example.com""  
+""Coffee House""  
+""408 Maple Street, Springfield""  
+""Unicorn Magic""  
+""345-67-8901""",TRUE
+"Blue Oak Technologies, 4567 Maple Drive, Springfield, IL 62704, info@blueoaktech.com, 555-123-4567",TRUE
+"jane.smith@example.com, Quantum Computing Lab, 456 Oak Street, Springfield, 98765, 987-65-4321",TRUE
+"""123 Maple Street, Springfield, 62704""",TRUE
+"Alice Smith, 123 Elm Street, Springfield, IL 62704, alice.smith@example.com, 555-123-4567, Quantum Computing Innovations",TRUE
+"Sunset Valley Apartments, 567 Maple Street, Springfield, IL, 62704, jane.smith@example.com, 555-234-7890, Quantum Energy Cells, Eco-Friendly Initiative",TRUE
+"""linda.smith@example.com, Blue Ocean Ventures, 42 Sunset Blvd, San Francisco, CA 94101, 987-65-4320""",TRUE
+"Skyline Innovations, info@skylineinnovations.com, 456 Maple Avenue, Springfield, 62704, Quantum Computing Breakthrough, 555-0167, 9988-1234-5678-4321",TRUE
+"Alice.Smith@example.com, GreenField Solutions, 463-29-8390, The Quick Brown Fox, 742 Evergreen Terrace, Springfield, 9876-5432-1098-7654",TRUE
+"""example.corp@domain.com"", ""678-90-1234"", ""Silver Oak Manor, Los Angeles"", ""Cloud Computing Solutions""",TRUE
+"Blue Ocean Technologies, 1234 Elm Street, Springfield, IL, 62704, (555) 123-4567, jessica.smith@blueocean.com, Quantum Leap Innovators",TRUE
+"""alice.smith@samplemail.com, Green Valley Park, 2398 Sunrise Blvd, Phone: 555-123-4567, Innovative Solutions Inc.""",TRUE
+"Sunnyvale Gardens, Galaxy Innovations",FALSE
+"""jane.smith@example.com, Acme Innovations, 555-0123, Quantum Leap Project""",TRUE
+"Greenwood Avenue, Springfield, 62704; Blue Ocean Technologies, ""Innovate Your Tomorrow""",TRUE
+"""jane.smith@mail.com"", ""Acme Technologies"", ""42 Maple Avenue, Springfield"", ""8745-0987-6543-2109""",TRUE
+"""jane.smith@samplemail.com, Cloud Innovations, 555-0123, Green Valley Park""",TRUE
+"Skyline Technologies, 3456 Elm Street, Springfield, contact@skyline-tech.com, 555-123-4567, Golden Ratio, 7462-1305-9087-6543",TRUE
+"Sunnydale Park, 456 Elm Street, Springfield, IL 62704, john.smith@email.com",TRUE
+"""234 Elm Street, Springfield, IL 62704""",TRUE
+"""Blue Ocean Technology"", ""alice.smith@samplemail.com"", ""45 Maple Drive, Springfield"", ""National Parks Initiative"", ""987-65-4320""",TRUE
+"Starlight Innovations, 2565 Elm Street, Springfield, 62704, (555) 123-4567, janesmith@example.com",TRUE
+"""Emily.Smith@example.com, Quantum Dynamics Corp, 789-45-2233, 123 Elm Street, Springfield""",TRUE
+"Sunset Valley Apartments, 3421 Maple Drive, Springfield, IL 62704, contact@sunsetvalley.com, 555-0199, 9875-6421-5689-1234, Solar Energy Solutions",TRUE
+"""Elegant Solutions Inc.""  
+""Privacy Policy Update""  
+""jack.smith@example.com""  
+""456-78-1234""  
+""Sunny Meadow Way, Springfield""  
+""Quantum Leap Initiative""  
+""Blue Ocean Strategy""",TRUE
+"""Cloudy Peaks Resort, john.smith@email.com, 987-65-4321, Emerald Lake Half Marathon""",TRUE
+"""Emily.Roberts75@gmail.com"", ""456 Elm Street, Springfield"", ""Acme Robotics"", ""8473-1922-1837-6457"", ""Smart Tech Innovations""",TRUE
+"""235 Maple Avenue, Springfield"", ""jane.smith@company.com"", ""Quantum Leap Technologies"", ""3421-5678-9012-3456""",TRUE
+"""alice.smith@example.com"", ""Tech Innovations LLC"", ""456 Elm Street, Springfield"", ""7481"", ""Passport Number: HZ1234567""",TRUE
+"""hello.world@example.com"", ""Galactic Ventures"", ""456 Oak Street, Springfield"", ""987-65-4320"", ""Eagle Eye Drone""",TRUE
+"""jane.smith@email.com"", ""Skyline Towers"", ""9876-5432-1098-7654"", ""Riverdale Park""",TRUE
+"""Emma.Stone@randommail.com""  
+""742 Evergreen Terrace, Springfield""  
+""Global Solutions Inc.""  
+""Binary Fusion Technology""  
+""904-555-0198""",TRUE
+"""alice.johnson@example.com, Creative Solutions LLC, 7501 Technology Dr, Austin, TX 78724, 555-018-7624""",TRUE
+"""Skyline Technologies, 456 Greenway Drive, Denver, CO 80203, info@skylinetech.com, 303-555-0199""",TRUE
+"""jane.smith@example.com"", ""4567 Maple Avenue, Springfield"", ""Sunset Valley Resort"", ""345-67-8901"", ""Green Tech Initiative""",TRUE
+"Green Meadow Park, 2445 East Broadway, Springfield, IL, ""Innovative Solutions Inc.""",FALSE
+"Sunnyvale Gardens, 5678 Rosewood Lane, Springfield, IL 62704, john.smith@gmail.com, Quantum Leap Technologies, 3.14, Orion Nebula",TRUE
+"""Sarah.Conner@futuristicmail.com"", ""Green Lantern Initiative"", ""76-45-8901"", ""Sunset Boulevard, Los Angeles""",TRUE
+"""7572 Elmwood Avenue, Springfield, IL 62704""",TRUE
+"""Skyline Technologies, 45 River Run Rd, Apt 8B, Springfield, IL, 62704, USA; contact@skyline.com; 555-324-8976""",TRUE
+"Blue Horizon Consulting, 4563 Maple Avenue, Springfield, IL, 62704, contact@bluehorizon.com, 815-555-0192, Project Alpha, 3098-2754-6812-9345",TRUE
+"""Green Valley Park, Springfield""",FALSE
+"Blue Ridge Solutions, info@blueridgesolutions.com, 456-78-9012, 123 Oak Lane, Springfield, 62704, Quantum Networking System",TRUE
+"Green Valley Rd, Springfield  
+849-362-1474  
+Quantum Storage Device  
+lisa.smith@samplemail.com",TRUE
+"""Green Valley Park, 452 Oak Street, Springfield"", ""david.smith@email.com"", ""The Great Outdoors Initiative""",TRUE
+"Crescent Moon Enterprises, 1234 Maple Lane, Springfield, IL 62704, contact@crescentmoon.com, 555-9876-5432, Industrial Widget Model X500",TRUE
+"Skyline Innovations, 456 Mountain View Ave, Los Angeles, CA 90001, sarah.jones@example.com, 987-65-4321, EcoData System",TRUE
+"Skyline Innovations  
+jane.smith1990@example.com  
+42 Maplewood Avenue, Springfield  
+Quantum Leap Technologies  
+987-65-4320  
+Green Horizon Project",TRUE
+"""contact@techsolutions.com, 478-291-3645, Evergreen Park, Chicago, 60005""",TRUE
+"""Sarah.Connor99@example.com, 123-456-7890, Apex Innovations, 5678 Oakwood Lane, Springfield""",TRUE
+"Blue Horizon Financial, 4321 Northgate Drive, Springfield, IL 62704, contact@bluehorizon.com, ""Artificial Intelligence Revolution""",TRUE
+"Skyline Enterprises, 456 Elm Street, Springfield, john.smith@skyline.com, 987-65-4321, Eco-Friendly Initiative",TRUE
+"""jane.smith@example.com"", ""The Great Outdoors"", ""42 Maple Avenue, Springfield"", ""Quantum Leap Technologies""",TRUE
+"Sunrise Technology Solutions, 246 Maple Avenue, Springfield, TX 78945, contact@sunrisetech.com, 512-123-4567, Project Phoenix Initiative",TRUE
+Emily.Smith12@gmail.com,TRUE
+"""902-34-5678"", ""Innovative Solutions Ltd."", ""128 Maple Avenue, Springfield"", ""Skyline Development Initiative"", ""contact@innovativesolutions.com""",TRUE
+"Pine Valley High School, john.smith@example.com, 555-123-4567, Quantum Computing Basics, 4.9",TRUE
+"""Alice Johnson, 555-0123, Quantum Innovations, 742 Evergreen Terrace, Springfield, IL""",FALSE
+"Mountain Ridge Blvd, Atlanta, GA 30328; chris.jones@fakemail.com; Quantum Entanglement Theory",TRUE
+"""4557-1234-5678-9010"", ""Jessica.Brown@email.com"", ""Innovative Solutions Group"", ""654 Main St, Metropolis"", ""Alpha Technology"", ""123-45-6789""",TRUE
+"""info.smith@email.com""",TRUE
+"""tech.guru@service.com"", ""Green Valley Road, Springfield"", ""Global Enterprises"", ""4735-1289-7642-9831""",TRUE
+"""Jane.Smith@example.com, Mountain Ridge Resort, 555-0123""",TRUE
+"""jane.smith@example.com | Acme Solutions | 45 Maple Street, Springfield | 987-65-4320 | Green Earth Initiative""",TRUE
+"""jane.smith@example.com, 983-12-4567, Riverstone Analytics, 123 Elm Street, Springfield""",TRUE
+"""Marie.Smith@example.com, 800-555-0172, Eco-friendly Paint, Quantum Computing Research, 123 Main St, Springfield""",TRUE
+"Blue Horizon Innovations, 432-21-6789, info@bluehorizon.com, Eco-Friendly Packaging Solutions",TRUE
+"""jane.smith92@gmail.com, Quantum Robotics Lab, 678 Park Avenue, New York, 10123, 555-0123""",TRUE
+"Green Valley Park, 4556 Oak Street, Springfield, IL 62704, ""contact@greenvalleypark.com"", ""987-654-3210""",TRUE
+"""jane.smith@example.com; Quantum Dynamics Corp; 456 Oak Avenue, Springfield; 987-65-4320""",TRUE
+"Bright Horizon Consulting, 73 Pine Street, Springfield, john.smith@email.com, 555-321-7654",TRUE
+"Sunnyvale Park, 456 Elm Street, CA 94086, +1-650-555-1234, john.smith@email.com, Quantum Computing Advancement Initiative",TRUE
+"""neon.vision@techmail.com"", ""Sunshine Meadows Drive, Suite 4B, Springfield"", ""Eco-Friendly Home Paint"", ""457-89-1234"", ""Galactic Innovation Summit""",TRUE
+"Blue Horizon Initiative, 45 Maplewood Ave, Apt 3B, Springfield, 62701, (555) 123-4567, project-alpha@company.com, 123-45-6789",TRUE
+"Skyline Innovations, 455 Marina Blvd, San Francisco, CA 94123, contact@skylineinnovations.com, 415-555-0123",TRUE
+"Sunny Meadows Road, Springfield, IL, Eco-Friendly Products Inc.",FALSE
+"Green Valley Park, Suite 202, Springfield, IL 62704, john.smith@email.com, Blue Ocean Strategy, 456-78-9123, Sunset Boulevard, 23344, Quantum Computing Initiative",TRUE
